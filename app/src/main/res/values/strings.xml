@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">Skeed Romano</string>
-    <string name="gsrol_main_menu_tagline">Test Your Knowledge</string>
-    <string name="gsrol_app_logo_description">App logo</string>
+    <string name="gsrol_main_menu_tagline">Test Your Sports Knowledge</string>
+    <string name="gsrol_app_logo_description">Skeed Romano logo</string>
 
     <string name="main_menu_play_solo">Solo</string>
     <string name="main_menu_play_multiplayer">Duo</string>
@@ -32,8 +32,8 @@
     <string name="high_score_card_total_label">Questions</string>
     <string name="high_score_card_date_label">Date</string>
     <string name="high_scores_empty">No high scores yet</string>
-    <string name="topics_selection_empty">No topics available</string>
-    <string name="topics_selection_start">Start Game</string>
+    <string name="topics_selection_empty">No sports available</string>
+    <string name="topics_selection_start">Start Quiz</string>
 
     <string name="dialog_exit_title">Exit Game?</string>
     <string name="dialog_exit_message">Your progress will be lost if you exit now.</string>
@@ -46,7 +46,7 @@
     <string name="streak_in_a_row_format">%1$d in a row</string>
     <string name="streak_count_description_format">%1$d answer streak</string>
 
-    <string name="game_over_title">Game Over</string>
+    <string name="game_over_title">Quiz Over</string>
     <string name="game_over_winner_format">Player %1$d Wins!</string>
     <string name="game_over_tie">It\'s a Tie!</string>
     <string name="game_over_player_format">Player %1$d</string>

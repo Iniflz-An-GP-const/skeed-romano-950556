@@ -1,0 +1,22 @@
+<resources>
+    <string name="gsrol_main_menu_tagline">Pon a prueba tu saber deportivo</string><string name="gsrol_app_logo_description">Logotipo de Skeed Romano</string>
+    <string name="main_menu_play_solo">Solo</string><string name="main_menu_play_multiplayer">Dúo</string><string name="main_menu_high_scores">Récords</string><string name="main_menu_about">Acerca de</string><string name="main_menu_exit">Salir</string>
+    <string name="back_icon_description">Atrás</string><string name="shuffle_icon_description">Mezclar deportes</string><string name="topics_selection_title">Elige deportes</string><string name="high_scores_title">Récords</string>
+    <string name="about_title">Acerca de</string><string name="about_rules_title">Cómo jugar</string><string name="about_version_format">Versión %1$s</string><string name="about_developer_label">Desarrollador</string><string name="about_contact_label">Contacto</string>
+    <string name="high_scores_filter_score">Puntuación</string><string name="high_scores_filter_questions">Preguntas</string><string name="high_scores_filter_date">Fecha</string>
+    <string name="high_score_card_score_format">%1$d/%2$d correctas</string><string name="high_score_card_percent_format">%1$d%%</string><string name="high_score_card_correct_label">Correctas</string><string name="high_score_card_total_label">Preguntas</string><string name="high_score_card_date_label">Fecha</string>
+    <string name="high_scores_empty">Aún no hay récords</string><string name="topics_selection_empty">No hay deportes disponibles</string><string name="topics_selection_start">Iniciar quiz</string>
+    <string name="dialog_exit_title">¿Salir del quiz?</string><string name="dialog_exit_message">Perderás tu progreso si sales ahora.</string><string name="dialog_action_confirm">Salir</string><string name="dialog_action_cancel">Cancelar</string>
+    <string name="question_card_progress_format">Pregunta %1$d de %2$d</string><string name="streak_label">Racha</string><string name="streak_in_a_row_format">%1$d seguidas</string><string name="streak_count_description_format">Racha de %1$d respuestas</string>
+    <string name="game_over_title">Quiz terminado</string><string name="game_over_winner_format">¡Gana el jugador %1$d!</string><string name="game_over_tie">¡Empate!</string><string name="game_over_player_format">Jugador %1$d</string>
+    <string name="game_over_main_menu">Menú principal</string><string name="game_over_play_again">Jugar de nuevo</string><string name="game_over_best_streak_format">Mejor racha: %1$d</string><string name="game_over_player_best_streak_format">Mejor racha del jugador %1$d: %2$d</string>
+    <plurals name="topic_question_count"><item quantity="one">%d pregunta</item><item quantity="other">%d preguntas</item></plurals>
+    <string-array name="about_rules">
+        <item>Tienes 15 segundos por pregunta — agotar el tiempo cuenta como respuesta incorrecta.</item>
+        <item>Tu respuesta queda fijada al instante; después se muestra la correcta antes de la siguiente pregunta.</item>
+        <item>En modo Dúo, los jugadores se turnan para responder una pregunta cada vez.</item>
+        <item>Tu récord se guarda por separado para cada duración y solo se sustituye por uno mayor.</item>
+        <item>Los récords solo se guardan en modo Solo.</item>
+        <item>Elige uno o más deportes — sus preguntas se mezclarán juntas.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="gsrol_main_menu_tagline">Testez votre culture sportive</string><string name="gsrol_app_logo_description">Logo Skeed Romano</string>
+    <string name="main_menu_play_solo">Solo</string><string name="main_menu_play_multiplayer">Duo</string><string name="main_menu_high_scores">Meilleurs scores</string><string name="main_menu_about">À propos</string><string name="main_menu_exit">Quitter</string>
+    <string name="back_icon_description">Retour</string><string name="shuffle_icon_description">Mélanger les sports</string><string name="topics_selection_title">Choisir les sports</string><string name="high_scores_title">Meilleurs scores</string>
+    <string name="about_title">À propos</string><string name="about_rules_title">Comment jouer</string><string name="about_version_format">Version %1$s</string><string name="about_developer_label">Développeur</string><string name="about_contact_label">Contact</string>
+    <string name="high_scores_filter_score">Score</string><string name="high_scores_filter_questions">Questions</string><string name="high_scores_filter_date">Date</string>
+    <string name="high_score_card_score_format">%1$d/%2$d bonnes</string><string name="high_score_card_percent_format">%1$d%%</string><string name="high_score_card_correct_label">Bonnes réponses</string><string name="high_score_card_total_label">Questions</string><string name="high_score_card_date_label">Date</string>
+    <string name="high_scores_empty">Aucun meilleur score</string><string name="topics_selection_empty">Aucun sport disponible</string><string name="topics_selection_start">Lancer le quiz</string>
+    <string name="dialog_exit_title">Quitter le quiz ?</string><string name="dialog_exit_message">Votre progression sera perdue si vous quittez maintenant.</string><string name="dialog_action_confirm">Quitter</string><string name="dialog_action_cancel">Annuler</string>
+    <string name="question_card_progress_format">Question %1$d sur %2$d</string><string name="streak_label">Série</string><string name="streak_in_a_row_format">%1$d de suite</string><string name="streak_count_description_format">Série de %1$d réponses</string>
+    <string name="game_over_title">Quiz terminé</string><string name="game_over_winner_format">Joueur %1$d gagnant !</string><string name="game_over_tie">Égalité !</string><string name="game_over_player_format">Joueur %1$d</string>
+    <string name="game_over_main_menu">Menu principal</string><string name="game_over_play_again">Rejouer</string><string name="game_over_best_streak_format">Meilleure série : %1$d</string><string name="game_over_player_best_streak_format">Meilleure série du joueur %1$d : %2$d</string>
+    <plurals name="topic_question_count"><item quantity="one">%d question</item><item quantity="other">%d questions</item></plurals>
+    <string-array name="about_rules">
+        <item>Vous avez 15 secondes par question — dépasser le temps compte comme une mauvaise réponse.</item>
+        <item>Votre réponse est validée immédiatement, puis la bonne est révélée avant la question suivante.</item>
+        <item>En mode Duo, les joueurs répondent chacun leur tour à une question.</item>
+        <item>Votre meilleur score est suivi par longueur de quiz et seul un score supérieur le remplace.</item>
+        <item>Les meilleurs scores sont enregistrés uniquement en mode Solo.</item>
+        <item>Choisissez un ou plusieurs sports — leurs questions seront toutes mélangées.</item>
+    </string-array>
+</resources>

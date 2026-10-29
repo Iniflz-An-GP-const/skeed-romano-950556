@@ -1,0 +1,22 @@
+<resources>
+    <string name="gsrol_main_menu_tagline">Uji Pengetahuan Olahragamu</string><string name="gsrol_app_logo_description">Logo Skeed Romano</string>
+    <string name="main_menu_play_solo">Solo</string><string name="main_menu_play_multiplayer">Duo</string><string name="main_menu_high_scores">Skor Tertinggi</string><string name="main_menu_about">Tentang</string><string name="main_menu_exit">Keluar</string>
+    <string name="back_icon_description">Kembali</string><string name="shuffle_icon_description">Acak olahraga</string><string name="topics_selection_title">Pilih Olahraga</string><string name="high_scores_title">Skor Tertinggi</string>
+    <string name="about_title">Tentang</string><string name="about_rules_title">Cara Bermain</string><string name="about_version_format">Versi %1$s</string><string name="about_developer_label">Pengembang</string><string name="about_contact_label">Kontak</string>
+    <string name="high_scores_filter_score">Skor</string><string name="high_scores_filter_questions">Pertanyaan</string><string name="high_scores_filter_date">Tanggal</string>
+    <string name="high_score_card_score_format">%1$d/%2$d benar</string><string name="high_score_card_percent_format">%1$d%%</string><string name="high_score_card_correct_label">Benar</string><string name="high_score_card_total_label">Pertanyaan</string><string name="high_score_card_date_label">Tanggal</string>
+    <string name="high_scores_empty">Belum ada skor tertinggi</string><string name="topics_selection_empty">Tidak ada olahraga</string><string name="topics_selection_start">Mulai Kuis</string>
+    <string name="dialog_exit_title">Keluar dari Kuis?</string><string name="dialog_exit_message">Progresmu akan hilang jika keluar sekarang.</string><string name="dialog_action_confirm">Keluar</string><string name="dialog_action_cancel">Batal</string>
+    <string name="question_card_progress_format">Pertanyaan %1$d dari %2$d</string><string name="streak_label">Rentetan</string><string name="streak_in_a_row_format">%1$d berturut-turut</string><string name="streak_count_description_format">Rentetan %1$d jawaban</string>
+    <string name="game_over_title">Kuis Selesai</string><string name="game_over_winner_format">Pemain %1$d Menang!</string><string name="game_over_tie">Seri!</string><string name="game_over_player_format">Pemain %1$d</string>
+    <string name="game_over_main_menu">Menu Utama</string><string name="game_over_play_again">Main Lagi</string><string name="game_over_best_streak_format">Rentetan Terbaik: %1$d</string><string name="game_over_player_best_streak_format">Rentetan Terbaik Pemain %1$d: %2$d</string>
+    <plurals name="topic_question_count"><item quantity="one">%d pertanyaan</item><item quantity="other">%d pertanyaan</item></plurals>
+    <string-array name="about_rules">
+        <item>Setiap pertanyaan memberi 15 detik — kehabisan waktu dihitung sebagai jawaban salah.</item>
+        <item>Jawaban langsung dikunci saat dipilih, lalu jawaban benar ditampilkan sebelum soal berikutnya.</item>
+        <item>Dalam mode Duo, pemain bergiliran menjawab satu pertanyaan.</item>
+        <item>Skor terbaik dicatat terpisah untuk tiap panjang kuis dan hanya diganti oleh skor lebih tinggi.</item>
+        <item>Skor tertinggi hanya dicatat dalam mode Solo.</item>
+        <item>Pilih satu atau beberapa olahraga — semua pertanyaannya akan diacak bersama.</item>
+    </string-array>
+</resources>

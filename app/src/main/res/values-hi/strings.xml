@@ -1,0 +1,22 @@
+<resources>
+    <string name="gsrol_main_menu_tagline">अपने खेल ज्ञान को परखें</string><string name="gsrol_app_logo_description">Skeed Romano लोगो</string>
+    <string name="main_menu_play_solo">सोलो</string><string name="main_menu_play_multiplayer">डुओ</string><string name="main_menu_high_scores">उच्च स्कोर</string><string name="main_menu_about">परिचय</string><string name="main_menu_exit">बाहर जाएँ</string>
+    <string name="back_icon_description">वापस</string><string name="shuffle_icon_description">खेलों को मिलाएँ</string><string name="topics_selection_title">खेल चुनें</string><string name="high_scores_title">उच्च स्कोर</string>
+    <string name="about_title">परिचय</string><string name="about_rules_title">कैसे खेलें</string><string name="about_version_format">संस्करण %1$s</string><string name="about_developer_label">डेवलपर</string><string name="about_contact_label">संपर्क</string>
+    <string name="high_scores_filter_score">स्कोर</string><string name="high_scores_filter_questions">प्रश्न</string><string name="high_scores_filter_date">तारीख</string>
+    <string name="high_score_card_score_format">%1$d/%2$d सही</string><string name="high_score_card_percent_format">%1$d%%</string><string name="high_score_card_correct_label">सही</string><string name="high_score_card_total_label">प्रश्न</string><string name="high_score_card_date_label">तारीख</string>
+    <string name="high_scores_empty">अभी कोई उच्च स्कोर नहीं</string><string name="topics_selection_empty">कोई खेल उपलब्ध नहीं</string><string name="topics_selection_start">क्विज़ शुरू करें</string>
+    <string name="dialog_exit_title">क्विज़ छोड़ें?</string><string name="dialog_exit_message">अभी बाहर जाने पर आपकी प्रगति मिट जाएगी।</string><string name="dialog_action_confirm">बाहर जाएँ</string><string name="dialog_action_cancel">रद्द करें</string>
+    <string name="question_card_progress_format">प्रश्न %1$d / %2$d</string><string name="streak_label">लय</string><string name="streak_in_a_row_format">लगातार %1$d</string><string name="streak_count_description_format">%1$d उत्तरों की लय</string>
+    <string name="game_over_title">क्विज़ समाप्त</string><string name="game_over_winner_format">खिलाड़ी %1$d जीता!</string><string name="game_over_tie">बराबरी!</string><string name="game_over_player_format">खिलाड़ी %1$d</string>
+    <string name="game_over_main_menu">मुख्य मेन्यू</string><string name="game_over_play_again">फिर खेलें</string><string name="game_over_best_streak_format">सर्वश्रेष्ठ लय: %1$d</string><string name="game_over_player_best_streak_format">खिलाड़ी %1$d की सर्वश्रेष्ठ लय: %2$d</string>
+    <plurals name="topic_question_count"><item quantity="one">%d प्रश्न</item><item quantity="other">%d प्रश्न</item></plurals>
+    <string-array name="about_rules">
+        <item>हर प्रश्न के लिए 15 सेकंड मिलते हैं — समय समाप्त होना गलत उत्तर माना जाता है।</item>
+        <item>उत्तर चुनते ही वह लॉक हो जाता है, फिर अगले प्रश्न से पहले सही उत्तर दिखता है।</item>
+        <item>डुओ मोड में खिलाड़ी बारी-बारी से एक प्रश्न का उत्तर देते हैं।</item>
+        <item>हर क्विज़ लंबाई का सर्वश्रेष्ठ स्कोर अलग रहता है और केवल बड़ा स्कोर उसे बदलता है।</item>
+        <item>उच्च स्कोर केवल सोलो मोड में दर्ज होते हैं।</item>
+        <item>एक या अधिक खेल चुनें — सभी चुने हुए प्रश्न एक साथ मिलाए जाते हैं।</item>
+    </string-array>
+</resources>

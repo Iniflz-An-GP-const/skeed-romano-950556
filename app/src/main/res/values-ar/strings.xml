@@ -1,0 +1,22 @@
+<resources>
+    <string name="gsrol_main_menu_tagline">اختبر معلوماتك الرياضية</string><string name="gsrol_app_logo_description">شعار Skeed Romano</string>
+    <string name="main_menu_play_solo">فردي</string><string name="main_menu_play_multiplayer">ثنائي</string><string name="main_menu_high_scores">أعلى النتائج</string><string name="main_menu_about">حول</string><string name="main_menu_exit">خروج</string>
+    <string name="back_icon_description">رجوع</string><string name="shuffle_icon_description">خلط الرياضات</string><string name="topics_selection_title">اختر الرياضات</string><string name="high_scores_title">أعلى النتائج</string>
+    <string name="about_title">حول</string><string name="about_rules_title">طريقة اللعب</string><string name="about_version_format">الإصدار %1$s</string><string name="about_developer_label">المطور</string><string name="about_contact_label">التواصل</string>
+    <string name="high_scores_filter_score">النتيجة</string><string name="high_scores_filter_questions">الأسئلة</string><string name="high_scores_filter_date">التاريخ</string>
+    <string name="high_score_card_score_format">إجابات صحيحة \u200E%1$d/%2$d\u200E</string><string name="high_score_card_percent_format">\u200E%1$d%%\u200E</string><string name="high_score_card_correct_label">صحيحة</string><string name="high_score_card_total_label">الأسئلة</string><string name="high_score_card_date_label">التاريخ</string>
+    <string name="high_scores_empty">لا توجد نتائج بعد</string><string name="topics_selection_empty">لا توجد رياضات متاحة</string><string name="topics_selection_start">ابدأ الاختبار</string>
+    <string name="dialog_exit_title">الخروج من الاختبار؟</string><string name="dialog_exit_message">سيضيع تقدمك إذا خرجت الآن.</string><string name="dialog_action_confirm">خروج</string><string name="dialog_action_cancel">إلغاء</string>
+    <string name="question_card_progress_format">السؤال %1$d من %2$d</string><string name="streak_label">السلسلة</string><string name="streak_in_a_row_format">%1$d متتالية</string><string name="streak_count_description_format">سلسلة من %1$d إجابات</string>
+    <string name="game_over_title">انتهى الاختبار</string><string name="game_over_winner_format">فاز اللاعب %1$d!</string><string name="game_over_tie">تعادل!</string><string name="game_over_player_format">اللاعب %1$d</string>
+    <string name="game_over_main_menu">القائمة الرئيسية</string><string name="game_over_play_again">العب مجددًا</string><string name="game_over_best_streak_format">أفضل سلسلة: %1$d</string><string name="game_over_player_best_streak_format">أفضل سلسلة للاعب %1$d: %2$d</string>
+    <plurals name="topic_question_count"><item quantity="one">%d سؤال</item><item quantity="two">%d سؤالان</item><item quantity="few">%d أسئلة</item><item quantity="many">%d سؤالًا</item><item quantity="other">%d سؤال</item></plurals>
+    <string-array name="about_rules">
+        <item>لديك 15 ثانية لكل سؤال — نفاد الوقت يُحسب إجابة خاطئة.</item>
+        <item>يُثبت اختيارك فورًا، ثم تظهر الإجابة الصحيحة قبل السؤال التالي.</item>
+        <item>في الوضع الثنائي، يتناوب اللاعبان على إجابة سؤال واحد كل مرة.</item>
+        <item>تُحفظ أفضل نتيجة لكل طول اختبار، ولا تستبدلها إلا نتيجة أعلى.</item>
+        <item>تُسجل النتائج العليا في الوضع الفردي فقط.</item>
+        <item>اختر رياضة أو أكثر — تُخلط أسئلتها كلها معًا.</item>
+    </string-array>
+</resources>
