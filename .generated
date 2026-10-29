@@ -1,0 +1,33 @@
+AssetBasedConstructor
+donor: QuizAppDonor (app.quiz.donor)
+project: Skeed Romano (goldrush.skeedromano.official)
+prefix: GSROL
+seed: -4932329808805055182
+app/src/main/java/app/quiz/donor/ui/composable/approot/background -> v_fade
+app/src/main/java/app/quiz/donor/ui/composable/approot/background/points -> v_corners
+app/src/main/java/app/quiz/donor/ui/composable/approot/topbar -> v_flat
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/card -> v_centered
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/header -> v_divider
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/list -> v_numbered
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/button -> v_icon_badge
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/layout -> v_grid
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/question -> v_plain
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/streak -> v_text
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/timer -> v_dashes
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/transition -> v_fade
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/player -> v_crown
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/result -> v_number
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/card -> v_percent_badge
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter -> v_surface
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter/chip -> v_text_only
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/play_mode -> v_duo_row
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/secondary -> v_row
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/header -> v_tagline
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/button -> v_plain
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/modifier/press -> v_squish
+app/src/main/java/app/quiz/donor/ui/composable/screen/splash -> v_drop
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/card -> v_border
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/list -> v_grid
+app/src/main/java/app/quiz/donor/ui/theme -> v_cp4732
+app/src/main/java/app/quiz/donor/ui/theme/dimens -> v_cozy
+app/src/main/java/app/quiz/donor/ui/theme/typography -> v_font_minimal

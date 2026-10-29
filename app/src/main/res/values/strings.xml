@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name" translatable="false">Skeed Romano</string>
+    <string name="gsrol_main_menu_tagline">Test Your Knowledge</string>
+    <string name="gsrol_app_logo_description">App logo</string>
+
+    <string name="main_menu_play_solo">Solo</string>
+    <string name="main_menu_play_multiplayer">Duo</string>
+    <string name="main_menu_high_scores">High Scores</string>
+    <string name="main_menu_about">About</string>
+    <string name="main_menu_exit">Exit</string>
+
+    <string name="back_icon_description">Back</string>
+    <string name="shuffle_icon_description">Shuffle topics</string>
+    <string name="topics_selection_title">Select Topics</string>
+    <string name="high_scores_title">High Scores</string>
+
+    <string name="about_title">About</string>
+    <string name="about_rules_title">How to Play</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="gsrol_company_name" translatable="false">GOLDRUSH AI SOLUTIONS LTD</string>
+    <string name="about_contact_label">Contact</string>
+    <string name="gsrol_customer_support_link" translatable="false">http://goldrush-ai-solutions.xyz</string>
+
+    <string name="high_scores_filter_score">Score</string>
+    <string name="high_scores_filter_questions">Questions</string>
+    <string name="high_scores_filter_date">Date</string>
+
+    <string name="high_score_card_score_format">%1$d/%2$d correct</string>
+    <string name="high_score_card_percent_format">%1$d%%</string>
+    <string name="high_score_card_correct_label">Correct</string>
+    <string name="high_score_card_total_label">Questions</string>
+    <string name="high_score_card_date_label">Date</string>
+    <string name="high_scores_empty">No high scores yet</string>
+    <string name="topics_selection_empty">No topics available</string>
+    <string name="topics_selection_start">Start Game</string>
+
+    <string name="dialog_exit_title">Exit Game?</string>
+    <string name="dialog_exit_message">Your progress will be lost if you exit now.</string>
+    <string name="dialog_action_confirm">Exit</string>
+    <string name="dialog_action_cancel">Cancel</string>
+
+    <string name="question_card_progress_format">Question %1$d of %2$d</string>
+
+    <string name="streak_label">Streak</string>
+    <string name="streak_in_a_row_format">%1$d in a row</string>
+    <string name="streak_count_description_format">%1$d answer streak</string>
+
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_winner_format">Player %1$d Wins!</string>
+    <string name="game_over_tie">It\'s a Tie!</string>
+    <string name="game_over_player_format">Player %1$d</string>
+    <string name="game_over_main_menu">Main Menu</string>
+    <string name="game_over_play_again">Play Again</string>
+    <string name="game_over_best_streak_format">Best Streak: %1$d</string>
+    <string name="game_over_player_best_streak_format">Player %1$d Best Streak: %2$d</string>
+
+    <plurals name="topic_question_count">
+        <item quantity="one">%d question</item>
+        <item quantity="other">%d questions</item>
+    </plurals>
+
+    <string-array name="about_rules">
+        <item>Each question gives you 15 seconds to answer — running out of time counts as a wrong answer.</item>
+        <item>Once you pick an answer it locks in immediately, then the correct one is revealed before the next question.</item>
+        <item>In Duo mode, players take turns answering one question at a time.</item>
+        <item>Your best score is tracked separately for each quiz length, and only a higher score replaces it.</item>
+        <item>High scores are only recorded in Solo mode.</item>
+        <item>Pick one or more topics before starting — the questions from all of them are shuffled together.</item>
+    </string-array>
+</resources>
