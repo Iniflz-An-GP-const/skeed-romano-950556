@@ -1,0 +1,6 @@
+name=Skeed Romano
+bundle=goldrush.skeedromano.official
+organization=Skeed
+alias=key
+pwd=bN6noT0scE1lwK2waF8t
+key-pwd=bN6noT0scE1lwK2waF8t

@@ -26,8 +26,9 @@ import goldrush.skeedromano.official.ui.state.DataUiState
 import goldrush.skeedromano.official.ui.theme.LocalDimens
 import goldrush.skeedromano.official.ui.viewmodel.HighScoreViewModel
 import java.time.format.DateTimeFormatter
+import java.util.Locale
 
-private val DateFormatter: DateTimeFormatter = DateTimeFormatter.ofPattern("MMM d, yyyy")
+private val DateFormatter: DateTimeFormatter = DateTimeFormatter.ofPattern("MMM d, yyyy", Locale.US)
 
 @Composable
 fun GSROLHighScoresScreen(
